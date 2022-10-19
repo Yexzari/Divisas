@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConverDivisas</string>
+    <string-array name="array_divisas">
+        <item>MXN</item>
+        <item>DLS</item>
+        <item>EU</item>
+    </string-array>
+</resources>
